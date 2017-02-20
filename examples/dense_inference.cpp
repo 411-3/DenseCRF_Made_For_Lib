@@ -29,6 +29,7 @@
 #include <cmath>
 #include "util.h"
 #define IterativeNumber 10
+
 // Store the colors we read, so that we can write them again.
 int nColors = 0;
 int colors[255];
